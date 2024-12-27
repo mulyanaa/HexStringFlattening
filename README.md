@@ -1,4 +1,5 @@
-Hex String Flattening
+# Hex String Flattening
+
 This repository contains a utility function for converting a byte array in hexadecimal format from a detailed representation (e.g., [0x00][0x00][0x00][0x00][0x00][0x00][0x03][0x94][0x8E][0x0B]) to a compressed hex string representation (00000000000003948E0B). This function is particularly useful for reconstructing Codec messages from Teltonika devices.
 
 Overview
